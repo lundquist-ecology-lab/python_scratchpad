@@ -1,0 +1,19 @@
+services:
+  python-editor:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./:/app
+      - ./static:/app/static
+      - student_files:/app/student_files
+    environment:
+      - PORT=8080
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+      - SECRET_KEY=${SECRET_KEY}
+    restart: unless-stopped
+
+volumes:
+  student_files:
+

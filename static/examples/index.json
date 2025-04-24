@@ -1,0 +1,165 @@
+{
+  "examples": [
+    {
+      "id": "hello",
+      "title": "Hello World",
+      "description": "A simple hello world program with user input"
+    },
+    {
+      "id": "variable_types",
+      "title": "Determine Variable Names",
+      "description": "Example Python code to determine variable names and types from a dataset"
+    },
+    {
+      "id": "random_sample",
+      "title": "Take a Random Sample",
+      "description": "Take a random sample from a larger dataset"
+    },
+    {
+      "id": "histograms",
+      "title": "Histograms",
+      "description": "Creating histograms"
+    },
+    {
+      "id": "scatter_plots",
+      "title": "Scatter plots",
+      "description": "Creating scatter plots"
+    },
+    {
+      "id": "box_and_whisker",
+      "title": "Box and Wisker Plots",
+      "description": "Creating box and whisker plots"
+    },
+    {
+      "id": "single_group_bar",
+      "title": "Single Group Bar Plot",
+      "description": "Creating single group bar plots"
+    },
+    {
+      "id": "stacked_bar",
+      "title": "Stacked Bar Plots",
+      "description": "Creating stacked bar plots"
+    },
+    {
+      "id": "side_by_side_bar",
+      "title": "Side By Side Bar Plots",
+      "description": "Creating Side By Side Bar Plots"
+    },
+    {
+      "id": "mean",
+      "title": "Mean",
+      "description": "Calculate mean"
+    },
+    {
+      "id": "median",
+      "title": "Median",
+      "description": "Calculate median"
+    },
+    {
+      "id": "variance",
+      "title": "Variance",
+      "description": "Calculate variance"
+    },
+    {
+      "id": "summary_statistics",
+      "title": "Summary Statistics",
+      "description": "General summary statistics"
+    },
+    {
+      "id": "standard_error",
+      "title": "Standard Error",
+      "description": "Calculate standard error"
+    },
+    {
+      "id": "se_plot",
+      "title": "Bar Plot with Error Bars",
+      "description": "Add error bars to bar plots"
+    },
+    {
+      "id": "confidence_inverval",
+      "title": "Confidence Intervals",
+      "description": "Calculate 95% CI"
+    },
+    {
+      "id": "ci_plot",
+      "title": "Plot with 95% CI",
+      "description": "Add 95% CI to bar plots"
+    },
+    {
+      "id": "binomial_distribution",
+      "title": "Binomial Distribution",
+      "description": "Plot the binomial distribution"
+    },
+    {
+      "id": "binomial_test",
+      "title": "Binomial Test",
+      "description": "Run a binomial test"
+    },
+    {
+      "id": "chi_independence",
+      "title": "Chi-squared Test for Independence",
+      "description": "Run a chi-squared test for independence"
+    },
+    {
+      "id": "chi_goodness",
+      "title": "Chi-squared Goodness of Fit Test",
+      "description": "Run a chi-squared goodness of fit test"
+    },
+        {
+      "id": "ttest",
+      "title": "One Sample T-test",
+      "description": "Comparison of a group mean to a hypothesized mean"
+    },
+    {
+      "id": "paired_t",
+      "title": "Paired t-test",
+      "description": "Run a paired t-test"
+    },
+    {
+      "id": "two_sample_t",
+      "title": "Two Sample T-test",
+      "description": "Comparison means of two groups"
+    },
+    {
+      "id": "one_anova",
+      "title": "One-way ANOVA",
+      "description": "Comparison means of more than two groups"
+    },
+    {
+      "id": "two_anova",
+      "title": "Two-way ANOVA",
+      "description": "Comparison means of two factors with more than two groups"
+    },
+    {
+      "id": "tukey",
+      "title": "Tukey Test",
+      "description": "Post-hoc tests for significant ANOVAs"
+    },
+    {
+      "id": "mann_whitney",
+      "title": "Mann_-Whitney U Test",
+      "description": "Non-parametric replacement for two sample t-test"
+    },
+    {
+      "id": "wilcoxon",
+      "title": "Wilcoxon Signed-Rank Test",
+      "description": "Non-parametric replacement for paired t-test"
+    },
+    {
+      "id": "kruskal_wallis",
+      "title": "Kruskal Wallis H Test",
+      "description": "Non-parametric replacement for one-way ANOVA"
+    },
+    {
+      "id": "correlation",
+      "title": "Correlation",
+      "description": "Parmetric and non-parametric correlation analysis"
+    },
+    {
+      "id": "regression",
+      "title": "Linear Regression",
+      "description": "Production of linear models and regression coefficients"
+    }
+
+  ]
+}
