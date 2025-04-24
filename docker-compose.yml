@@ -6,7 +6,6 @@ services:
     volumes:
       - ./:/app
       - ./static:/app/static
-      - student_files:/app/student_files
     environment:
       - PORT=8080
       - PYTHONDONTWRITEBYTECODE=1
